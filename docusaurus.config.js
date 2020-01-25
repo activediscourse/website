@@ -1,11 +1,11 @@
 module.exports = {
   title: 'Active Discourse',
   tagline: 'The tagline of my site',
-  url: 'https://activediscourse.github.io/website',
-  baseUrl: '/',
+  url: 'https://activediscourse.github.io',
+  baseUrl: '/website/',
   favicon: 'img/favicon.ico',
-  organizationName: 'activediscourse', // Usually your GitHub org/user name.
-  projectName: 'website', // Usually your repo name.
+  organizationName: 'activediscourse',
+  projectName: 'website',
   themeConfig: {
     navbar: {
       title: 'Active Discourse',
