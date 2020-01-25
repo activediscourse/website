@@ -14,7 +14,6 @@ module.exports = {
         src: 'img/logo.svg',
       },
       links: [
-        {to: 'docs/doc1', label: 'Docs', position: 'left'},
         {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/activediscourse/website',
@@ -27,15 +26,15 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Subscribe',
           items: [
             {
-              label: 'Style Guide',
-              to: 'docs/doc1',
+              label: 'Apple Podcasts',
+              href: 'https://podcasts.apple.com/us/podcast/active-discourse/id1473894855',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2',
+              label: 'Google Podcasts',
+              href: 'https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Iqdahpenjqkuwptvqmaxcay7suu?t%3DActive_Discourse%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16',
             },
           ],
         },
@@ -65,7 +64,7 @@ module.exports = {
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/website',
+              href: 'https://twitter.com/ActiveDiscourse',
             },
           ],
         },
