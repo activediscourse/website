@@ -3,7 +3,7 @@ module.exports = {
   tagline: 'The Technology Roundtable Podcast',
   url: 'https://activediscourse.github.io',
   baseUrl: '/website/',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/ACD-Website-Logo-300x300.png',
   organizationName: 'activediscourse',
   projectName: 'website',
   themeConfig: {
