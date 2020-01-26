@@ -1,3 +1,13 @@
+---
+id: Paradise 
+title: The Enthusiast Paradise
+author: Brett Koster
+author_title: Active Discourse Co-Host
+author_url: https://github.com/wgao19
+author_image_url: https://avatars1.githubusercontent.com/u/2055384?v=4
+tags: [hola, docusaurus]
+---
+
 # The Enthusiast Paradise
 
 Since there are very few posts to this website so far, it may not be obvious yet, but I am a technology enthusiast. Everyone has their thing and my thing is electronics. 
