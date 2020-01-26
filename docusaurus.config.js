@@ -11,7 +11,7 @@ module.exports = {
       title: 'Active Discourse',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/ACD-Website-Logo.svg',
+        src: 'img/ACD-Website-Logo-300x300.png',
       },
       links: [
         {to: 'blog', label: 'Blog', position: 'left'},
