@@ -3,9 +3,9 @@ id: Paradise
 title: The Enthusiast Paradise
 author: Brett Koster
 author_title: Active Discourse Co-Host
-author_url: https://github.com/wgao19
-author_image_url: https://avatars1.githubusercontent.com/u/2055384?v=4
-tags: [hola, docusaurus]
+author_url: https://github.com/SeekAndDefineBK
+author_image_url: https://avatars0.githubusercontent.com/u/60300571?s=460&v=4
+tags: [technology, note]
 ---
 
 # The Enthusiast Paradise
