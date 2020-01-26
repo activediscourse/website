@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Active Discourse',
-  tagline: 'The tagline of my site',
+  tagline: 'The Technology Roundtable Podcast',
   url: 'https://activediscourse.github.io',
   baseUrl: '/website/',
   favicon: 'img/favicon.ico',
@@ -11,7 +11,7 @@ module.exports = {
       title: 'Active Discourse',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/ACD-Website-Logo.svg',
       },
       links: [
         {to: 'blog', label: 'Blog', position: 'left'},
@@ -69,7 +69,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with website.`,
+      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
     },
   },
   presets: [
