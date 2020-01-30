@@ -1,33 +1,35 @@
-# Website
+# Active Discourse &middot; [![JavaScript Standard Style](https://flat.badgen.net/badge/code%20style/standard/green)](https://standardjs.com)
 
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+> the technology roundtable podcast
 
-### Installation
+:construction: under construction :construction:
 
-```
-$ yarn
-```
+The **Active Discourse** podcast is a rolling conversation between a devoted Android user and a passionate Apple user. These two friends intend to explore the gray areas between their platforms and find agreement.
 
-### Local Development
+<p align="center">
+  <img src="https://flat.badgen.net/badge/icon/apple%20podcasts?label&color=purple&icon=https://ico.now.sh/applepodcasts/fff" href="https://podcasts.apple.com/us/podcast/active-discourse/id1473894855" />
+  <img src="https://flat.badgen.net/badge/icon/google%20play?label&color=orange&icon=https://ico.now.sh/googleplay/fff" href="https://play.google.com/music/m/Iqdahpenjqkuwptvqmaxcay7suu?t%3DActive_Discourse%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16" />
+  <img src="https://flat.badgen.net/badge/icon/google%20podcasts?label&color=d69e09&icon=https://ico.now.sh/googlepodcasts/fff" href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9waW5lY2FzdC5jb20vZmVlZC9hY3RpdmVkaXNjb3Vyc2U%3D" />
+  <img src="https://flat.badgen.net/badge/icon/spotify?label&color=green&icon=https://ico.now.sh/spotify/fff" href="https://open.spotify.com/show/6d3Uvd1PLBU1nYb3IMND63" />
+  <img src="https://flat.badgen.net/badge/icon/overcast?label&color=ff9533&icon=https://ico.now.sh/overcast/fff" href="https://overcast.fm/itunes1473894855/active-discourse" />
+  <img src="https://flat.badgen.net/badge/icon/pocket%20casts?label&color=red&icon=https://ico.now.sh/spotify/fff" href="https://pca.st/hqte5uop" />
+  <img src="https://flat.badgen.net/badge/icon/rss?icon=rss&label" href="https://pinecast.com/feed/activediscourse" />
+</p>
 
-```
-$ yarn start
-```
+## development
 
-This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
+The site is built with [Docusaurus 2](https://v2.docusaurus.io/).
 
-### Build
+To develop locally:
 
-```
-$ yarn build
-```
+1. Clone the repo: `git clone https://github.com/activediscourse/website.git ad-site`
+2. Move into the new directory: `cd ad-site`
+3. Install dependencies: `yarn`
+4. Start a local server and open in browser: `yarn start`
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+## license
 
-### Deployment
+[MIT license](./license)
 
-```
-$ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+[*@citycide*](https://github.com/citycide)<br />
+[*@SeekAndDefineBK*](https://github.com/SeekAndDefineBK)
