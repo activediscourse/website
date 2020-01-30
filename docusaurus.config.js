@@ -10,7 +10,7 @@ module.exports = {
     navbar: {
       title: "Active Discourse",
       logo: {
-        alt: "My Site Logo",
+        alt: "Active Discourse logo",
         src: "img/ACD-Website-Logo-300x300.png"
       },
       links: [
@@ -26,7 +26,7 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "Subscribe",
+          title: "Subscribe & Listen",
           items: [
             {
               label: "Apple Podcasts",
@@ -69,7 +69,7 @@ module.exports = {
           ]
         }
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`
+      copyright: `Copyright © ${new Date().getFullYear()} Brett Koster & Bo Lingen`
     }
   },
   presets: [
