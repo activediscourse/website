@@ -1,14 +1,15 @@
-# Dependencies
-/node_modules
+# lock files
+npm-shrinkwrap.json
+package-lock.json
+yarn.lock
 
-# Production
+# built files
 /build
-
-# Generated files
 .docusaurus
 .cache-loader
 
-# Misc
+node_modules
+
 .DS_Store
 .env.local
 .env.development.local
