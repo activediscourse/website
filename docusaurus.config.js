@@ -33,8 +33,28 @@ module.exports = {
               href: "https://podcasts.apple.com/us/podcast/active-discourse/id1473894855"
             },
             {
+              label: "Google Play",
+              href: "https://play.google.com/music/m/Iqdahpenjqkuwptvqmaxcay7suu?t%3DActive_Discourse%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16"
+            },
+            {
               label: "Google Podcasts",
-              href: "https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&apn=com.google.android.music&link=https://play.google.com/music/m/Iqdahpenjqkuwptvqmaxcay7suu?t%3DActive_Discourse%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16"
+              href: "https://www.google.com/podcasts?feed=aHR0cHM6Ly9waW5lY2FzdC5jb20vZmVlZC9hY3RpdmVkaXNjb3Vyc2U%3D"
+            },
+            {
+              label: "Spotify",
+              href: "https://open.spotify.com/show/6d3Uvd1PLBU1nYb3IMND63"
+            },
+            {
+              label: "Overcast",
+              href: "https://overcast.fm/itunes1473894855/active-discourse"
+            },
+            {
+              label: "Pocket Casts",
+              href: "https://pca.st/hqte5uop"
+            },
+            {
+              label: "RSS",
+              href: "https://pinecast.com/feed/activediscourse"
             }
           ]
         },
