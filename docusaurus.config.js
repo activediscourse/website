@@ -15,6 +15,7 @@ module.exports = {
       },
       links: [
         { to: "blog", label: "Blog", position: "left" },
+        { to: "episodes", label: "Episodes", position: "left" },
         {
           href: "https://github.com/activediscourse/website",
           label: "GitHub",

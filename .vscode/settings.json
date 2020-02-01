@@ -1,5 +1,8 @@
 {
   "eslint.options": {
     "parser": null
-  }
+  },
+  "css.lint.validProperties": [
+    "composes"
+  ]
 }

@@ -1,0 +1,31 @@
+.episodeList {
+  justify-content: center;
+  min-height: 200px;
+}
+
+.episode {
+  margin-top: var(--ifm-spacing-vertical);
+}
+
+.episodeHeader {
+  padding-bottom: var(--ifm-card-vertical-spacing) !important;
+  border-bottom: 1px solid var(--ifm-contents-border-color);
+}
+
+.episodeDetails {
+  width: 100%;
+  padding-left: var(--ifm-card-horizontal-spacing);
+  justify-content: space-between;
+  font-size: small;
+}
+
+.episodeNumber {
+  font-size: small;
+  font-weight: 500;
+  color: var(--ifm-color-emphasis-900);
+}
+
+.episodeDate {
+  font-size: small;
+  color: var(--ifm-color-emphasis-500);
+}
