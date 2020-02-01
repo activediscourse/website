@@ -44,7 +44,9 @@ export const EpisodeList = ({ start = 0, limit = 5, verbose = false } = {}) => {
     })
   } else {
     return <div className={classes("row", styles.episodeList)}>
-      <LoadingSpinner />
+      <div className={styles.loadingWrapper}>
+        <LoadingSpinner />
+      </div>
     </div>
   }
 }
