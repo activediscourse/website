@@ -23,6 +23,11 @@ export const EpisodeList = ({ start = 0, limit = 5, verbose = false } = {}) => {
               <div className={classes("row", styles.episodeDetails)}>
                 <div className={styles.episodeNumber}>
                   {"EPISODE " + item.episode}
+                  {start === 0 && index === 0 &&
+                    <span className={classes("badge badge--primary", commonStyles.latestBadge)}>
+                      LATEST
+                    </span>
+                  }
                 </div>
                 <div className={styles.episodeDate}>
                   {item.published.toLocaleDateString()}
