@@ -9,8 +9,8 @@ import commonStyles from "@site/src/common/styles.module.css"
 export const LatestEpisode = () => {
   const [{ feed }] = useContext(FeedContext)
 
-  if (feed && feed.items.length > 0) {
-    const [latestEpisode] = feed.items
+  if (feed && feed.episodes.length > 0) {
+    const [latestEpisode] = feed.episodes
 
     return <EpisodeEmbed
       className={commonStyles.latestEpisodeEmbed}

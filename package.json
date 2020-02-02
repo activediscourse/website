@@ -10,6 +10,7 @@
     "lint": "eslint src *.js"
   },
   "dependencies": {
+    "@activediscourse/podcast-parser": "^1.0.0",
     "@docusaurus/core": "^2.0.0-alpha.40",
     "@docusaurus/preset-classic": "^2.0.0-alpha.40",
     "classnames": "^2.2.6",

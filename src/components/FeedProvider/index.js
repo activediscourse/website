@@ -1,15 +1,15 @@
 import React, { createContext, useEffect, useState } from "react"
-import Rss from "rss-parser"
+import parsePodcast from "@activediscourse/podcast-parser"
 
-const parser = new Rss()
+const feedUrl = "https://pinecast.com/feed/activediscourse"
 
 const getEpisodeGuid = episode =>
   new URL(episode.enclosure.url).pathname.split("/").pop().replace(".mp3", "")
 
-const normalizeFeedItems = feed => {
-  if (!feed || feed.items.length < 1) return
+const normalizeFeed = feed => {
+  if (!feed || feed.episodes.length < 1) return
 
-  feed.items = feed.items.map(item => ({
+  feed.episodes = feed.episodes.map(item => ({
     ...item,
     guid: getEpisodeGuid(item)
   }))
@@ -24,8 +24,13 @@ export const FeedProvider = ({ children }) => {
 
   useEffect(() => {
     if (!state.feed) {
-      parser.parseURL("https://pinecast.com/feed/activediscourse")
-        .then(feed => setState({ ...state, feed: normalizeFeedItems(feed) }))
+      window.fetch(feedUrl)
+        .then(res => res.text())
+        .then(xml => parsePodcast(xml))
+        .then(feed => {
+          setState({ ...state, feed: normalizeFeed(feed) })
+        })
+        .catch(e => console.log(e))
     }
   })
 
