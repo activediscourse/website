@@ -8,7 +8,7 @@ author_image_url: https://avatars0.githubusercontent.com/u/60300571?s=460&v=4
 tags: [technology, review, Mac, apple]
 ---
 
-### Thoughts after a year of contemplation and months of use
+### Mac Mini (2018) Review
 
 ![Mac Mini (2018) Review](https://github.com/activediscourse/website/blob/master/static/img/042020-MacMiniReview/Headline.jpg)
 
