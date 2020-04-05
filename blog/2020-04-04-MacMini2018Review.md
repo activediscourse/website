@@ -8,7 +8,6 @@ author_image_url: https://avatars0.githubusercontent.com/u/60300571?s=460&v=4
 tags: [technology, review, Mac, apple]
 ---
 
-import useBaseUrl from "@docusaurus/useBaseUrl"
 
 ### Mac Mini (2018) Review
 
@@ -19,7 +18,7 @@ What more is there to say that hasn’t already been said about the Mac Mini (20
 <!--truncate-->
 
 ## Why?
-This Mac Mini was announced in October 2018 and I finally made the plunge in November 2019. Throughout 2019, I decided to dig into iOS development more and more. At the end of the year, I wanted to make my iOS development a little bit more legitimate by migrating off my Hackintosh build onto a proper Mac. The general consensus on Reddit is that a MacBook is recommended for App development, the main driving factor is mobility. Unfortunately, I don't understand that perspective. I have an office and I've molded it to serve me perfectly. The Mac Mini has more power per dollar than a MacBook Pro, plus all the tools I've amassed over my Hackintosh years translate 1:1 to the Mac Mini.
+This Mac Mini was announced in October 2018 and I finally made the plunge in November 2019. Throughout 2019, I decided to dig into iOS development more and more. At the end of the year, I wanted to make my iOS development a little bit more legitimate by migrating off my Hackintosh build onto a proper Mac. The general consensus on Reddit is that a MacBook is recommended for App development, the main driving factor is mobility. Unfortunately, I don't understand that perspective. I have an office and I've molded it to serve me perfectly. The Mac Mini has more power per dollar than a MacBook Pro, plus all the tools I've amassed over my Hackintosh years translate 1:1 to the Mac Mini. Portability is unnecessary to me at this time.
 
 ![My Happy Space](https://raw.githubusercontent.com/activediscourse/website/master/blog/assets/2020-04-04-MacMini2018Review/DeskView.jpg)
 
@@ -42,7 +41,7 @@ Apple upgraded the Mac Mini from using a mobile chipset to a desktop chipset in 
 ## Upgradable and Expandable
 This Mac Mini would have been untouchable to me if the RAM wasn’t upgradable. My previous desktop computer was a custom build, my computer before that was a iMac 27” (2011) which I tried to upgrade the HDD to an SSD and I broke it... That experiment taught me I need a computer that I can open without worry. Fast forward to the Mac Mini. While it is more daunting to upgrade the RAM, I was comfortable with it due to extensive tinkering in my life. While I walk away with a sense of accomplishment by avoiding the Apple RAM tax, I’m frustrated that the RAM upgrade process was so hard. The iMac 27” has a back door that pops off for quick user accessible RAM, I don’t see why Apple couldn’t make the Mac Mini’s RAM more friendly to replace.
 
-Outside of RAM however, the Mac Mini presents options to expand by taking advantage of the Thunderbolt/USB-C ports. The world is migrating the USB-C and this Mac Mini is ready for that. Best of all, each port is a Thunderbolt 3 port, which allows for very fast expandable options. For example, attaching an external NVM.e solid state drive to actually has the capability to perform faster than the built in storage. Another example, you can attach an external GPU to make up for the terrible integrated Intel GPU that Apple decided to put inside this Mac Mini.
+Outside of RAM however, the Mac Mini presents options to expand by taking advantage of the Thunderbolt/USB-C ports. The world is migrating the USB-C and this Mac Mini is ready for that. Best of all, each port is a Thunderbolt 3 port, which allows for very fast expandable options. For example, attaching an external NVM.e solid state drive actually has the capability to perform faster than the built in storage. Another example, you can attach an external GPU to make up for the terrible integrated Intel GPU that Apple decided to put inside this Mac Mini.
 
 [Mac Mini (2018) RAM Replacement Guide](https://www.youtube.com/watch?v=HAvA_JzKrLU&t=3s "Mac Mini (2018) RAM Replacement Guide")
 
