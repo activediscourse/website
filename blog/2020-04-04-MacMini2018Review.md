@@ -12,7 +12,7 @@ import useBaseUrl from "@docusaurus/useBaseUrl"
 
 ### Mac Mini (2018) Review
 
-![Mac Mini (2018) Review](/website/blog/assets/2020-04-04-MacMini2018Review/Headline.jpg)
+![Mac Mini (2018) Review](https://github.com/activediscourse/website/blob/master/blog/assets/2020-04-04-MacMini2018Review/Headline.jpg)
 
 What more is there to say that hasn’t already been said about the Mac Mini (2018)? To start this off, I acknowledge the fact that this “review” is coming more than a year after the initial release of this computer. But shelf life be dammed, this Mac will live on for nearly a decade in my home. Here are my thoughts.
 
@@ -21,7 +21,7 @@ What more is there to say that hasn’t already been said about the Mac Mini (20
 ## Why?
 This Mac Mini was announced in October 2018 and I finally made the plunge in November 2019. Throughout 2019, I decided to dig into iOS development more and more. At the end of the year, I wanted to make my iOS development a little bit more legitimate by migrating off my Hackintosh build onto a proper Mac. The general consensus on Reddit is that a MacBook is recommended for App development, the main driving factor is mobility. Unfortunately, I don't understand that perspective. I have an office and I've molded it to serve me perfectly. The Mac Mini has more power per dollar than a MacBook Pro, plus all the tools I've amassed over my Hackintosh years translate 1:1 to the Mac Mini.
 
-![My Happy Space](/website/blog/assets/2020-04-04-MacMini2018Review/DeskView.jpg)
+![My Happy Space](https://github.com/activediscourse/website/blob/master/blog/assets/2020-04-04-MacMini2018Review/DeskView.jpg)
 
 ## What?
 So I bought a Mac Mini around black Friday. As you'll hear me talk about on Active Discourse, it was on sale and I was never going to buy this full price. I hemmed and hawed about which model, but ultimately decided to buy the Core i7 configuration with 1TB of storage and 8GB of RAM. We'll talk about the processor and RAM more in the next sections. Let's address the storage here and never talk about it again.
@@ -60,4 +60,4 @@ Apple I believe setup their fan rules to be aggressively silent, in my early use
 
 This Mini beast will serve my needs for years. Right now it will be the most powerful computer in my home, but someday it won't be. I'm not sure what the future will hold, but this tiny powerful computer can be whatever it needs to be. Today it is my main development computer, tomorrow it may be a web server, then it may end it may end its life as a simple local network file server. The Mac Mini is an adorable versatile beast and I'm excited to finally have it. It has earned a spot on my Wall of Fame.
 
-![The Wall of Fame](/website/blog/assets/2020-04-04-MacMini2018Review/Conclusion.jpg)
+![The Wall of Fame](https://github.com/activediscourse/website/blob/master/blog/assets/2020-04-04-MacMini2018Review/Conclusion.jpg)
