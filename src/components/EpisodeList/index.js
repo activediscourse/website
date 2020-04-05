@@ -22,7 +22,12 @@ export const EpisodeList = ({ start = 0, limit = 5, verbose = false } = {}) => {
             <div className={classes("card__header", styles.episodeHeader)}>
               <div className={classes("row", styles.episodeDetails)}>
                 <div className={styles.episodeNumber}>
-                  {"EPISODE " + item.episode}
+                  {item.episodeType === "bonus"
+                    ? <span className={classes("badge badge--success")}>
+                        BONUS
+                    </span>
+                    : "EPISODE " + item.episode
+                  }
                   {start === 0 && index === 0 &&
                     <span className={classes("badge badge--primary", commonStyles.latestBadge)}>
                       LATEST
